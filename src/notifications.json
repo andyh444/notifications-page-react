@@ -1,0 +1,153 @@
+{
+    "Notifications":
+    [{
+        "id": 1,
+        "status": "unread",
+        "imageUrl": "assets//images//avatar-mark-webber.webp",
+        "Content":
+        [
+            {
+            "className":"Name",
+            "text":"Mark Webber"
+            },
+            {
+            "className":"",
+            "text": " reacted to your recent post "
+            },
+            {
+            "className":"PostName",
+            "text": "My first tournament today!"
+            }
+        ],
+        "TimeAgo":"2m ago",
+        "bonusImageUrl": null,
+        "bonusMessage": null
+        },
+        {
+        "id": 2,
+        "status": "unread",
+        "imageUrl": "assets//images//avatar-angela-gray.webp",
+        "Content":
+        [
+            {
+            "className":"Name",
+            "text":"Angela Gray"
+            },
+            {
+            "className":"",
+            "text":" followed you"
+            }
+        ],
+        "TimeAgo":"5m ago",
+        "bonusImageUrl": null,
+        "bonusMessage": null
+        },
+        {
+        "id": 3,
+        "status": "unread",
+        "imageUrl": "assets//images//avatar-jacob-thompson.webp",
+        "Content":
+        [
+            {
+            "className":"Name",
+            "text":"Jacob Thompson"
+            },
+            {
+            "className":"",
+            "text":" has joined your group "
+            },
+            {
+            "className":"GroupName",
+            "text":"Chess Club"
+            }
+        ],
+        "TimeAgo":"1 day ago",
+        "bonusImageUrl": null,
+        "bonusMessage": null
+        },
+        {
+        "id": 4,
+        "status": "read",
+        "imageUrl": "assets//images//avatar-rizky-hasanuddin.webp",
+        "Content":
+        [
+            {
+            "className":"Name",
+            "text":"Rizky Hasanuddin"
+            },
+            {
+            "className":"",
+            "text":" sent you a private message"
+            }
+        ],
+        "TimeAgo":"5 days ago",
+        "bonusImageUrl": null,
+        "bonusMessage": "Hello, thanks for setting up the Chess Club. I've been a member for a few weeks now and I'm already having lots of fun and improving my game"
+        },
+        {
+        "id": 5,
+        "status": "read",
+        "imageUrl": "assets//images//avatar-kimberly-smith.webp",
+        "Content":
+        [
+            {
+            "className":"Name",
+            "text":"Kimberly Smith"
+            },
+            {
+            "className":"",
+            "text":" commented on your picture"
+            }
+        ],
+        "TimeAgo":"1 week ago",
+        "bonusImageUrl": "assets//images//image-chess.webp",
+        "bonusMessage": null
+        },
+        {
+        "id": 6,
+        "status": "read",
+        "imageUrl": "assets//images//avatar-nathan-peterson.webp",
+        "Content":
+        [
+            {
+            "className":"Name",
+            "text":"Nathan Peterson"
+            },
+            {
+            "className":"",
+            "text":" reacted to your recent post "
+            },
+            {
+            "className":"PostName",
+            "text":"5 end-game strategies to increase your win rate"
+            }
+        ],
+        "TimeAgo":"2 weeks ago",
+        "bonusImageUrl": null,
+        "bonusMessage": null
+        },
+        {
+        "id": 7,
+        "status": "read",
+        "imageUrl": "assets//images//avatar-anna-kim.webp",
+        "Content":
+        [
+            {
+            "className":"Name",
+            "text":"Anna Kim"
+            },
+            {
+            "className":"",
+            "text":" left the group "
+            },
+            {
+            "className":"GroupName",
+            "text":"Chess Club"
+            }
+        ],
+        "TimeAgo":"2 weeks ago",
+        "bonusImageUrl": null,
+        "bonusMessage": null
+        }
+    ]
+}
