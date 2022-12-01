@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/notifications-page-react/static/css/main.296e0db6.css",
+    "main.js": "/notifications-page-react/static/js/main.242764c8.js",
+    "index.html": "/notifications-page-react/index.html",
+    "main.296e0db6.css.map": "/notifications-page-react/static/css/main.296e0db6.css.map",
+    "main.242764c8.js.map": "/notifications-page-react/static/js/main.242764c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.296e0db6.css",
+    "static/js/main.242764c8.js"
+  ]
+}
